@@ -1,5 +1,12 @@
 ### Olá! Eu sou o Danilo Freitas 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-freitas-dev/)](https://www.linkedin.com/in/danilo-freitas-dev/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19333888/danilo-freitas](https://stackoverflow.com/users/19333888/danilo-freitas)
+[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/danilojpfreitas/badges/micro)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+##
+
 - 🔭 Desenvolvedor
 - 🌱 Participando da #43 XP Gama Experience (Gama Academy)
 - 📫 Contate-me no email: danilojpfreitas@gmail.com
