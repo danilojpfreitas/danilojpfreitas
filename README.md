@@ -6,7 +6,7 @@
 ##
 
 - 🔭 Desenvolvedor
-- 🌱 Participando da #43 XP Gama Experience (Gama Academy)
+- 🌱 Participante da #43 XP Gama Experience (Gama Academy)
 - 📫 Contate-me no email: danilojpfreitas@gmail.com
 - Meu Portfólio :) https://danilojpfreitas.github.io/MinhaPagina/
 
