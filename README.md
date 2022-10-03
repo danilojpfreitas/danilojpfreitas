@@ -7,7 +7,7 @@
 
 - 🔭 Desenvolvedor
 - 🌱 Participante da #43 XP Gama Experience (Gama Academy)
-- 📫 Contate-me no email: danilojpfreitas@gmail.com
+- 📫 Contate-me no email => danilojpfreitas@gmail.com
 - Meu Portfólio :) => https://danilojpfreitas.github.io/MinhaPagina/
 
 <div style="display: inline_block"  align="center">
