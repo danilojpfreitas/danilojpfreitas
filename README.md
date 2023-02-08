@@ -27,9 +27,9 @@
   
   <div align="center">
   
-  [![Danilo Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilojpfreitas&show_icons=true)]
+  [![Danilo Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilojpfreitas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpfreitas&layout=compact)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpfreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
