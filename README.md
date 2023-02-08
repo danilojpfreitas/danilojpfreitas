@@ -25,6 +25,8 @@
   
   ##
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilojpfreitas)](https://github.com/anuraghazra/github-readme-stats)
+  
   ### Meu contato :)
   
   <div> 
