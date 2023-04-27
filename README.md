@@ -5,8 +5,8 @@
 
 ##
 
-- 🔭 Desenvolvedor
-- 🌱 Desenvolvedor Web FullStack com especialização em BackEnd - #43 XP Gama Experience (Gama Academy)
+- 🔭 Data Engineer
+- 🌱 Software Engineer - #43 XP Gama Experience (Gama Academy)
 - 📫 Contate-me no email => danilojpfreitas@gmail.com
 - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/
 
