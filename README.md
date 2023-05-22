@@ -6,9 +6,9 @@
 ##
 
 - 🔭 Data Engineer
-- 🌱 Software Engineer - #43 XP Gama Experience (Gama Academy)
+- 🌱 Data Engineer - Stack Academy
 - 📫 Contate-me no email => danilojpfreitas@gmail.com
-- :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/
+<!-- - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/ -->
 
 <!-- <div style="display: inline_block"  align="center">
   <a href="https://github.com/danilojpfreitas">
