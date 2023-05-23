@@ -5,9 +5,9 @@
 
 ##
 
-- 🔭 Data Engineer
-- 🌱 Data Engineer - Stack Academy
-- 📫 Contate-me no email => danilojpfreitas@gmail.com
+- :floppy_disk: Data Engineer
+- :mortar_board: Data Engineer - Stack Academy
+- :envelope: Contate-me no email => danilojpfreitas@gmail.com
 <!-- - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/ -->
 
 <!-- <div style="display: inline_block"  align="center">
