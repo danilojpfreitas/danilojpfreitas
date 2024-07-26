@@ -1,4 +1,4 @@
-### Olá! Eu sou o Danilo Freitas 👋
+### Hi! I'm Danilo Freitas 👋
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19333888/danilo-freitas)](https://stackoverflow.com/users/19333888/danilo-freitas)
 [![Codewars Badge](https://www.codewars.com/users/danilojpfreitas/badges/micro)](https://www.codewars.com/users/danilojpfreitas/badges/micro)
@@ -7,7 +7,7 @@
 
 - :floppy_disk: Data Engineer
 - :mortar_board: Data Engineer
-- :envelope: Contate-me no email => danilojpfreitas@gmail.com
+- :envelope: My e-mail => danilojpfreitas@gmail.com
 <!-- - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/ -->
 
 <!-- <div style="display: inline_block"  align="center">
