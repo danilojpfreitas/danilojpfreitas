@@ -6,7 +6,7 @@
 ##
 
 - :floppy_disk: Data Engineer
-- :mortar_board: Data Engineer - Stack Academy
+- :mortar_board: Data Engineer
 - :envelope: Contate-me no email => danilojpfreitas@gmail.com
 <!-- - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/ -->
 
