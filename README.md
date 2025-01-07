@@ -6,7 +6,6 @@
 ##
 
 - :floppy_disk: Data Engineer
-- :mortar_board: Data Engineer
 - :envelope: My e-mail => danilojpfreitas@gmail.com
 <!-- - :page_facing_up: Meu Portfólio => https://meu-portfolio-react-danilo-freitas-a7908jwgc-danilojpfreitas.vercel.app/ -->
 
@@ -16,9 +15,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpfreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>  -->
 <div style="display: inline_block"><br>
-   <img align="center" alt="Danilo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Danilo-SQLServer" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-   <img align="center" alt="Danilo-Azure" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+   <img align="center" alt="Danilo-Code" height="60" width="80" src="https://skillicons.dev/icons?i=py,mysql&perline=2" />
+   <img align="center" alt="Danilo-Cloud-Computing" height="60" width="80" src="https://skillicons.dev/icons?i=gcp,azure&perline=2" />
+   <img align="center" alt="Danilo-Others-1" height="60" width="80" src="https://skillicons.dev/icons?i=mongodb,docker&perline=2" />
+   <img align="center" alt="Danilo-Others-2" height="60" width="80" src="https://skillicons.dev/icons?i=terraform,git&perline=2" />
 </div>
   
   ##
@@ -26,8 +26,8 @@
   <div align="center">
   
   [![Danilo Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilojpfreitas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpfreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpfreitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
   </div>
   
